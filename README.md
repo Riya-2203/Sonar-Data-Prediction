@@ -38,3 +38,6 @@ The dataset contains sonar signals bounced off objects underwater. Each instance
 ## 💡 Future Improvements
 - Use advanced models like Random Forest or SVM
 - Improve accuracy with hyperparameter tuning
+
+## 📸 Output Screenshot
+![Output](Screenshot%20(313).png)
